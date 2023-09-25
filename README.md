@@ -1,1 +1,1 @@
-# Intermediate_control_work_Pithon
+# Intermediate_control_work_Python
